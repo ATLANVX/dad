@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Ensaio Fotográfico com IA",
+  "description": "Uma aplicação interna para gerar ensaios fotográficos realistas combinando a identidade de uma pessoa com várias roupas, poses, cenários e estilos usando IA.",
+  "requestFramePermissions": []
+}
